@@ -1,0 +1,23 @@
+{
+  "name": "koa-mongo-session",
+  "version": "0.0.0",
+  "description": "Koa sessions using MongoDB",
+  "main": "koa-mongo-session",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/screenrev/koa-mongo-session"
+  },
+  "author": "glen@screenrev.com",
+  "license": "BSD v2",
+  "bugs": {
+    "url": "https://github.com/screenrev/koa-mongo-session/issues"
+  },
+  "homepage": "https://github.com/screenrev/koa-mongo-session",
+  "dependencies": {
+    "koa-generic-session": "^1.1.2",
+    "koa-mongo-model": "git://github.com/screenrev/koa-mongo-model"
+  }
+}
