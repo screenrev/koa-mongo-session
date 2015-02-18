@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/screenrev/koa-mongo-session",
   "dependencies": {
-    "koa-generic-session": "^1.1.2",
+    "koa-generic-session": "1.6.0",
     "koa-mongo-model": "git://github.com/screenrev/koa-mongo-model"
   }
 }
